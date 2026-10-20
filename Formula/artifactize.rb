@@ -1,17 +1,17 @@
 class Artifactize < Formula
   desc "Declare and verify artifacts with reusable evidence"
   homepage "https://artifactize.dev"
-  version "0.14.0"
+  version "0.14.1"
   license "Apache-2.0"
 
   on_macos do
     on_arm do
-      url "https://github.com/lhj6102/artifactize/releases/download/v0.14.0/artifactize-v0.14.0-aarch64-apple-darwin.tar.gz"
-      sha256 "cd5a7276a89ac8f692d81136452355a2da60957274bfc0441ab03e1583f54988"
+      url "https://github.com/lhj6102/artifactize/releases/download/v0.14.1/artifactize-v0.14.1-aarch64-apple-darwin.tar.gz"
+      sha256 "6f3d5dafe089a546c5cb554cce8bfb7ffef7bb34ca3a6a89e6275622516974bd"
     end
     on_intel do
-      url "https://github.com/lhj6102/artifactize/releases/download/v0.14.0/artifactize-v0.14.0-x86_64-apple-darwin.tar.gz"
-      sha256 "85557db714b0afa455ae0d2cc214c6bcdfc5397ac4f49ebeebe4b88799524aa2"
+      url "https://github.com/lhj6102/artifactize/releases/download/v0.14.1/artifactize-v0.14.1-x86_64-apple-darwin.tar.gz"
+      sha256 "98f4f4b610f7394ce0d0c6f631753bd5ade3e1fad3ad2d9dd9aab0c711701fd5"
     end
   end
 
