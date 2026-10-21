@@ -1,8 +1,8 @@
 cask "artifactize" do
-  version "0.14.2"
-  sha256 "7270e02097ff93d4f1b5bcd670a79a8e54a80c2f18d23ee722e142dfbda9e441"
+  version "0.15.0"
+  sha256 "06d8ae27facbc5404cac6ff255ba355693fb08127a2a9fc63f0d9898f8460926"
 
-  url "https://github.com/lhj6102/artifactize/releases/download/v0.14.2/artifactize-desktop-v#{version}-universal-apple-darwin.dmg"
+  url "https://github.com/lhj6102/artifactize/releases/download/v0.15.0/artifactize-desktop-v#{version}-universal-apple-darwin.dmg"
   name "Artifactize"
   desc "Declare and verify artifacts with reusable evidence"
   homepage "https://artifactize.dev/"
